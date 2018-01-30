@@ -1,1 +1,2 @@
 1. dev1
+2. after sb add a line on master, this line is added to dev
